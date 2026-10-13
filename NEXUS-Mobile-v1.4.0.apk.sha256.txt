@@ -1,0 +1,3 @@
+SHA256  NEXUS-Mobile-v1.4.0.apk
+75bb4c8ac275c6517688f913778f7ca4e96cc74c3e0b0f19d6ff7e7d670cee9d
+Size  969836 bytes
